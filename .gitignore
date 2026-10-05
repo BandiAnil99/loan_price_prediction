@@ -1,0 +1,9 @@
+users.db
+users.db-*
+cookies.txt
+login_out.txt
+dashboard_out.txt
+.venv/
+__pycache__/
+*.py[cod]
+.vscode/
